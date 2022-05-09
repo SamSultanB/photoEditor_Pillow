@@ -6,6 +6,8 @@ Main thing is that user chooses the filter.
 
 
    Original photo
+   
+   
 ![coach](https://user-images.githubusercontent.com/99643171/167399381-7171e79b-f0dd-438c-a093-0eee6d12bfa2.png)
 
 
