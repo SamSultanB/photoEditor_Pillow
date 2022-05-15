@@ -8,7 +8,7 @@ from PIL import ImageFont
 
 size = 1080, 1080
 filter_choice = input('Filters (BLUR, CONTOUR, DETAIL, EMBOSS)')
-png_images = [image for image in os.listdir() if image.endswith('.png')]
+png_images = [image for image in os.listdir() if image.endswith('.png') or image.endswith('.jpg')]
 for png_image in png_images:
     try:
         im = Image.open(png_image)
